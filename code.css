@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+    font-family: verdana;
+}
+form{
+    text-align: center;
+    background-color: blueviolet;
+    align-items: center;
+    max-width: 450px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px  rgb(222, 12, 12) ;
+
+}
+h1{
+    color: brown;
+}
+#text1{
+    width: 50%;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 15px;
+    border: 2px  rgb(8, 243, 106);
+}
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+    
+}
+button{
+    padding: 10px 15px;
+    border-radius: 6px;
+    background-color: aqua;
+    cursor: pointer;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(13, 94, 94);
+}
+#result{
+font-size: 1.5em;
+font-weight: bold;
+}
